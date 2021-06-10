@@ -3,3 +3,5 @@ uploads/*
 !uploads/.gitkkep
 
 *.sqlite
+
+package-lock.json
